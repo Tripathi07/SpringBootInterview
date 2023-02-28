@@ -8,3 +8,11 @@
 # The name parameter value overrides the default value of "Welcome to CUBA !" and is reflected in the response, like
 #   {"id":2,"content":"Hello, Welcome to CUBA ! Tripathi !! "}
 # With multiple request, value of ID should be autoincremented 
+
+# Please write code for 
+1)  Greeting.java
+2) GreetingController.java
+3) RestServiceApplication.java
+
+# and Unit Test Case 
+1) GreetingControllerTests.java
