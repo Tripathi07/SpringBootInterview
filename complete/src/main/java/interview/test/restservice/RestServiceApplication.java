@@ -1,4 +1,4 @@
-// Here we need to define the application class
+// Here we have the application class
 package interview.test.restservice;
 
 import org.springframework.boot.SpringApplication;
