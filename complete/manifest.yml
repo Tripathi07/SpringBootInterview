@@ -1,6 +1,6 @@
 ---
 applications:
-- name: gs-rest-service
+- name: SpringBootInterview
   memory: 256M
   instances: 1
   host: rest-service
