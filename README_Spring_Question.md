@@ -10,7 +10,7 @@
 # With multiple request, value of ID should be autoincremented 
 
 # Next :
-# Add the required config changes that will help me append the message without restarting the server 
+# Add the required config changes that will accomodate to the parameter change (example changing greeting to grettings) without restarting the server 
 
 # Last :
 # Extend the request to UPDATE and DELETE the records 
