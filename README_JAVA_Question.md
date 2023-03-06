@@ -9,6 +9,6 @@
 
 
 # Please write code for 
-1) Main.java
+1) StringsMain.java
 # and Unit Test Case 
 1) SpringTests.java
